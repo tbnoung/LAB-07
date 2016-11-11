@@ -81,6 +81,113 @@ class Operators {
     }
 }
 ```
+##ผลที่ได้
+Data type : byte
+
+Size :1
+
+Minimum Value :0
+
+Maximum Value :255
+
+
+Data type : char
+
+Size :2
+
+Minimum Value :0
+
+Maximum Value :65535
+
+
+Data type : bool
+Size :1
+
+4 < 5 : True
+
+4 > 5 : False
+
+
+Data type : sbyte
+
+Size :1
+Minimum Value :-128
+
+Maximum Value :127
+
+
+Data type : usort
+
+Size :2
+
+Minimum Value :0
+
+Maximum Value :65535
+
+
+Data type : int
+
+Size :4
+
+Minimum Value :-2147483648
+
+Maximum Value :2147483647
+
+
+
+Data type : uint
+
+Size :4
+
+Minimum Value :0
+
+Maximum Value :4294967295
+
+
+Data type : float
+
+Size :4
+
+Minimum Value :-3.402823E+38
+
+Maximum Value :3.402823E+38
+
+
+Data type : double
+
+Size :8
+
+Minimum Value :-1.79769313486232E+308
+
+Maximum Value :1.79769313486232E+308
+
+
+Data type : decimal
+
+Size :16
+
+Minimum Value :-79228162514264337593543950335
+
+Maximum Value :79228162514264337593543950335
+
+
+Data type : long
+
+Size :8
+
+Minimum Value :-9223372036854775808
+
+Maximum Value :9223372036854775807
+
+
+Data type : ulong
+
+Size :8
+
+Minimum Value :0
+
+Maximum Value :18446744073709551615
+
 ##สนุกกับการสร้างตัวเลขสุ่ม
  ในภาษา C# มีวิธีการสร้างตัวเลขสุ่ม (random number) โดยใช้คลาส Random มาสร้างเป็นตัวแปรโดยมีรูปแบบดังนี้
 ```csharp
