@@ -212,6 +212,9 @@ namespace thruthTable
 5. NOR
 6. Exclusive OR
 ```
+##ผลที่ได้
+![](https://github.com/tbnoung/LAB-07/blob/master/7.2.PNG)
+![](https://github.com/tbnoung/LAB-07/blob/master/7.3.PNG)
 
 
 
