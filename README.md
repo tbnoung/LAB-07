@@ -227,6 +227,7 @@ namespace RandomNumber
 1. ให้พิมพ์ค่าตัวแปร boolean ในข้อ 3 ออกทางหน้าจอ
 
 ##ผลที่ได้
+![](https://github.com/tbnoung/LAB-07/blob/master/7.1.1.PNG)
 ![](https://github.com/tbnoung/LAB-07/blob/master/7.1.PNG)
 
 ##การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ
